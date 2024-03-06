@@ -1,12 +1,14 @@
-import './App.css';
-import React from "react";
+import React from 'react';
+import Wrapper from "./Practice/Wrapper";
+
 
 function App() {
     return (
-        <div className="App">
-            <h1>hi </h1>
-        </div>
-    );
+
+
+        <Wrapper />
+
+    )
 }
 
 export default App;
